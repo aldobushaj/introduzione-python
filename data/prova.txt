@@ -1,0 +1,3 @@
+0, maria, verdi, 1990, 8, 15
+1, andrea, rossi, 1992, 7, 19
+2, giovanni, gialli, 1954, 1, 30
